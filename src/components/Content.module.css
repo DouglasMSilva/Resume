@@ -1,0 +1,23 @@
+.content {
+  max-width: 900px;
+  margin: 2rem auto;     /* centraliza e dá espaço vertical */
+  padding: 0 2rem;       /* afasta do canto */
+  font-family: "Segoe UI", sans-serif;
+  line-height: 1.8;
+}
+
+.content h1 {
+  font-size: 1.8rem;
+  margin-bottom: 1.2rem;
+  color: #0077cc;
+  border-bottom: 2px solid #0077cc;
+  display: inline-block;
+  padding-bottom: 0.3rem;
+}
+
+.content p {
+  font-size: 1rem;
+  color: #333;
+  margin-bottom: 2.5rem; /* espaço entre resumo e próximo bloco */
+  text-align: justify;   /* deixa o texto mais organizado */
+}
