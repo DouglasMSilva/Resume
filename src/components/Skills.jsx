@@ -104,7 +104,6 @@ export const Skills = () => {
                 </ul>
             </div>
 
-
             <div className={styles.experiences}>
                 <h2>Principais Competências</h2>
                 
