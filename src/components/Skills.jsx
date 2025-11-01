@@ -26,6 +26,7 @@ export const Skills = () => {
      {name: 'HTML5', image: '/assets/html5_logo.png'}, 
      {name: 'CSS3', image: '/assets/css3_logo.png'}, 
      {name: 'JavaScript', image: '/assets/javascript_logo.png'},
+     {name: 'TypeScript', image: '/assets/Typescript_logo.png'},
      {name: 'Node', image: '/assets/Node.js_logo.svg.png'},
      {name: 'SQL', image: '/assets/Sql_data_base_with_logo.png'}
     ];
@@ -33,7 +34,8 @@ export const Skills = () => {
     const frameworks = [
         {name: 'React', image: '/assets/reactjs_logo.png'}, 
         {name: 'React Native', image: '/assets/react_native_logo.png'},
-        {name: 'Bootstrap5', image: '/assets/bs5_logo.png'}
+        {name: 'Bootstrap5', image: '/assets/bs5_logo.png'},
+        {name: 'Express', image: '/assets/express-js-logo.png'}
     ];
 
     const tools = [
@@ -41,6 +43,7 @@ export const Skills = () => {
         {name: 'GitHub', image: '/assets/github_logo.png'},
         {name: 'Figma', image: '/assets/figma_logo.png'},
         {name: 'Supabase', image: '/assets/supabase-original-wordmark.png'},
+        {name: 'MongoDB', image: '/assets/mongodb_original.png'},
         {name: 'Inkscape', image: '/assets/Inkscape_Logo.svg.png'}
     ];
 

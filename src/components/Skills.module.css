@@ -31,6 +31,7 @@ ul {
   display: flex;              /* vira flex */
   flex-direction: column;     /* itens em coluna */
   align-items: center;
+  gap: .5rem;
 }
 
 button {
